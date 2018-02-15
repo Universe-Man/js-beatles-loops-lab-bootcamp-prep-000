@@ -25,8 +25,3 @@ function iLoveTheBeatles(number) {
 } while (i < 15);
   return theThirdAnswer
 }
-
-  do {theThirdAnswer.push("I love the Beatles!")
-} while (i < 15);
-  return theThirdAnswer
-}
