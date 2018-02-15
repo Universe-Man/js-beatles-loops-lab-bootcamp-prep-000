@@ -18,9 +18,18 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(number) {
   var theThirdAnswer = []
+<<<<<<< HEAD
   let i = number
   do {theThirdAnswer.push("I love the Beatles!")
   i++
 } while (i < 15);
   return theThirdAnswer
 }
+=======
+  do {theThirdAnswer.push("I love the Beatles!")
+} while (i < 15);
+  return theThirdAnswer
+}
+
+
+>>>>>>> b7cff6193ab0bcef7126587099b22310bd354a66
